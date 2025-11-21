@@ -19,6 +19,10 @@ header .container {
 }
 
 #profile img {
+     
+}
+
+#profile img {
     width: 176px;
     height: 176px;
     object-fit: cover;
